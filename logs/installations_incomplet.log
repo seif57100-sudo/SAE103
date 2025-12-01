@@ -1,1 +1,7 @@
-
+PC-DEV-01;alice;vscode;2025-10-02;OK
+PC-DEV-01;alice;git;2025-10-02;OK
+PC-DEV-02;bob;gcc;2025-09-28;OK
+PC-DEV-03;charles;java;2025-09-30;OK
+PC-DEV-04;diana;pycharm;2025-10-05;OK
+PC-DEV-05;eva;node;2025-10-07;OK
+PC-DEV-06;frank;docker;2025-10-09;OK
