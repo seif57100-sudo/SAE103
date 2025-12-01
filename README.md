@@ -1,4 +1,3 @@
-````markdown
 # SAÉ 1.03 — Installation d’un poste pour le développement
 
 ## Analyse automatisée de logs par scripts Bash
