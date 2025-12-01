@@ -1,3 +1,4 @@
+````markdown
 # SAÉ 1.03 — Installation d’un poste pour le développement
 
 ## Analyse automatisée de logs par scripts Bash
@@ -106,3 +107,73 @@ Vous devez écrire 7 scripts Bash. Chacun doit être commenté, lisible, optimis
 ./top_ip.sh auth.log 10
 ./compare_jours.sh auth_jour1.log auth_jour2.log
 ./menu.sh
+````
+
+---
+
+## 📄 4) Rapport Markdown — plan imposé
+
+Votre rapport final devra respecter exactement la structure suivante :
+
+1. Contexte & objectif du projet
+2. Présentation des logs fournis
+3. Scripts développés + commandes clés utilisées
+4. Résultats et extraits de sortie
+5. Analyse & interprétation
+6. Limites et pistes d’amélioration
+7. Répartition du travail dans le groupe
+
+**Format attendu** → `.md`
+
+---
+
+## 🎤 5) Soutenance finale — 15 minutes
+
+### Déroulement précis :
+
+| Phase                                       | Durée     |
+| ------------------------------------------- | --------- |
+| Démonstration live des scripts              | 7 minutes |
+| Explication d’un script tiré au sort        | 6 minutes |
+| Transition / installation du groupe suivant | 2 minutes |
+
+* Chaque membre doit pouvoir expliquer son travail ligne par ligne.
+* Toute incompréhension flagrante réduira la note.
+
+---
+
+## 🔄 Mise à jour & extensions du sujet
+
+Ce sujet est vivant et évolutif.
+De nouvelles consignes pourront être ajoutées au fil des semaines, notamment sur les parties avancées de l’évaluation.
+
+### 📌 Vous êtes donc invités à revenir régulièrement consulter la page Arche afin de suivre les ajouts et modifications.
+
+---
+
+## 📘 À venir prochainement
+
+Une extension du travail vous sera donnée concernant :
+
+* L’installation et l’utilisation de vos scripts sur une VM GitHub (Codespaces Debian).
+
+Vous devrez alors :
+
+* Héberger vos scripts sur **GitHub**
+* Exécuter et maintenir une version fonctionnelle sur **VM GitHub**
+* Conserver également une version opérationnelle sous **VirtualBox**
+
+Cette nouvelle consigne viendra compléter le projet, sans remplacer la VM VirtualBox actuellement obligatoire.
+
+### En résumé :
+
+| Environnement            | Statut actuel                                     |
+| ------------------------ | ------------------------------------------------- |
+| Debian VirtualBox        | Obligatoire — scripts exécutables & livrés en OVA |
+| GitHub Codespaces Debian | À venir — sera ajouté en section complémentaire   |
+
+Lisez bien les annonces : elles indiqueront précisément quand cette nouvelle étape sera activée.
+
+```
+
+```
