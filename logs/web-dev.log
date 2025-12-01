@@ -1,1 +1,16 @@
-
+2025-11-10;09:01:12;PC-DEV-01;alice;https://stackoverflow.com;200;542
+2025-11-10;09:03:45;PC-DEV-01;alice;https://docs.python.org;200;321
+2025-11-10;09:15:20;PC-DEV-02;bob;https://git-scm.com/docs;200;610
+2025-11-10;09:17:05;PC-DEV-02;bob;https://gcc.gnu.org;200;754
+2025-11-10;10:02:44;PC-DEV-03;charles;https://maven.apache.org;200;689
+2025-11-10;10:05:11;PC-DEV-03;charles;https://openjdk.org;404;190
+2025-11-10;10:06:33;PC-DEV-03;charles;https://openjdk.org;200;430
+2025-11-10;11:45:09;PC-DEV-04;diana;https://www.jetbrains.com/help/pycharm;200;522
+2025-11-10;14:12:55;PC-DEV-05;eva;https://nodejs.org/docs/latest-v22.x/api;200;810
+2025-11-10;14:18:37;PC-DEV-05;eva;https://www.npmjs.com;200;605
+2025-11-11;08:32:01;PC-DEV-01;alice;https://code.visualstudio.com/docs;200;488
+2025-11-11;09:02:22;PC-DEV-02;bob;https://cmake.org/documentation;200;702
+2025-11-11;09:55:49;PC-DEV-04;diana;https://pypi.org;200;415
+2025-11-11;10:12:30;PC-DEV-05;eva;https://developer.mozilla.org;200;530
+2025-11-11;10:45:03;PC-DEV-06;frank;https://docs.docker.com;500;920
+2025-11-11;10:46:11;PC-DEV-06;frank;https://docs.docker.com;200;640
