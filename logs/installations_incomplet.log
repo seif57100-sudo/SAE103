@@ -5,3 +5,16 @@ PC-DEV-03;charles;java;2025-09-30;OK
 PC-DEV-04;diana;pycharm;2025-10-05;OK
 PC-DEV-05;eva;node;2025-10-07;OK
 PC-DEV-06;frank;docker;2025-10-09;OK
+PC-DEV-07;george;go;2025-10-10;OK
+PC-DEV-08;hannah;rust;2025-10-11;OK
+PC-DEV-02;bob;gdb;2025-09-28;OK
+PC-DEV-03;charles;maven;2025-09-30;OK
+PC-DEV-09;ian;mysql;2025-10-12;OK
+PC-DEV-09;ian;workbench;2025-10-12;OK
+PC-DEV-05;eva;express;2025-10-07;OK
+PC-DEV-10;julia;postman;2025-10-13;OK
+PC-DEV-04;diana;pandas;2025-10-05;OK
+PC-DEV-11;kevin;terraform;2025-10-14;OK
+PC-DEV-06;frank;kubernetes;2025-10-09;OK
+PC-DEV-12;lea;android-studio;2025-10-15;OK
+PC-DEV-01;alice;chrome;2025-10-02;OK
